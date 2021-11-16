@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fd0acb5c-a0ab-5eee-05c4-257d1a69445e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Engineering Ethics",
+  "course_description": "This course introduces the theory and the practice of engineering ethics using a multi-disciplinary and cross-cultural approach. Theory includes ethics and philosophy of engineering. Historical cases are taken primarily from the scholarly literatures on engineering ethics, and hypothetical cases are written by students. Each student will write a story by selecting an ancestor or mythic hero as a substitute for a character in a historical case. Students will compare these cases and recommend action.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.932",
+  "learning_resource_types": [
+    "Lecture Audio"
+  ],
+  "title": "Course Metadata"
+}
